@@ -1,5 +1,10 @@
 # Fall 2022
 
+## Announcements
+
+- Deadline for paper selection: **October 24, 2022, Monday (end of day)**. See Paper Review/Presentation section below for details. Do not forget that you are also expected to select a presentation slot (see below).
+- Deadline for project proposal submission: **November 14, 2022, Monday (end of day)**. See Course Project section below for details.
+
 ## General Information
 
 [Syllabus](syllabus.pdf)
@@ -14,7 +19,7 @@ Week 3: [GPS](slides/GPS.pdf)
 
 ## Paper Review/Presentation
 
-Constitutes 20% of your grade.
+Constitutes 20% of the total grade.
 
 The students are expected to
 - Select a journal/conference paper and confirm it by me via e-mail (can.tunca at boun.edu.tr)
@@ -36,11 +41,11 @@ Presentation slots:
 
 ## Course Project
 
-Constitutes 40% of your grade. Two stages: Project Proposal (10%), Final Report/Presentation (30%)
+Constitutes 40% of the total grade. Two stages: Project Proposal (10%), Final Report/Presentation (30%)
 
 Some remarks:
 - Projects are to be done individually (no teams).
-- You are free to select your own topic. It could be the implementation of a solution discussed in a class on a mobile app or a simulation environment. It could be a solution on a pre-recorded dataset found on web.
+- You are free to select your own topic. It could be the implementation of a solution discussed in a class on a mobile app or a simulation environment. It could be a solution on a pre-recorded dataset found on web...
 - Comparison to some ground truth (either numeric or visual) and/or a demo is expected.
 
 Project Proposal
