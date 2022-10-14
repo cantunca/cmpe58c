@@ -7,7 +7,9 @@
 ## Lecture Slides
 
 Week 1: [Introduction](slides/Introduction.pdf)
+
 Week 2: [Technology Overview](slides/TechnologyOverview.pdf)
+
 Week 2: [GPS](slides/GPS.pdf)
 
 ## Timetable
