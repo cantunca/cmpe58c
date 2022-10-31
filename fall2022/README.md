@@ -2,7 +2,7 @@
 
 ## Announcements
 
-- Deadline for paper selection: **October 24, 2022, Monday (end of day)**. See Paper Review/Presentation section below for details. Do not forget that you are also expected to select a presentation slot (see below).
+- Paper presentation schedule is announced, see Paper Review and Presentation section.
 - Deadline for project proposal submission: **November 14, 2022, Monday (end of day)**. See Course Project section below for details.
 
 ## General Information
@@ -17,7 +17,7 @@ Week 2: [Technology Overview](slides/TechnologyOverview.pdf)
 
 Week 3: [GPS](slides/GPS.pdf)
 
-## Paper Review/Presentation
+## Paper Review and Presentation
 
 Constitutes 20% of the total grade.
 
@@ -36,8 +36,13 @@ If you face difficulties finding relevant papers, you can have a look at the Rec
 **Deadline for paper selection: October 24, 2022, Monday (end of day)**
 
 Presentation slots:
-- November 2, 2022: 3 slots
+- November 2, 2022:
+  - Yasin Yokuş - [Image-Based Position Control of Mobile Robots With a Completely Unknown Fixed Camera](https://ieeexplore.ieee.org/document/8258861)
+  - Mustafa Yalçın - [Fusion Algorithm of WiFi and IMU for Indoor Positioning](https://ieeexplore.ieee.org/document/9874146)
 - November 9, 2022: 3 slots
+  - Ömer Demirci - [Integrated Indoor Positioning System of Greenhouse Robot](https://www.mdpi.com/1424-8220/22/13/4819/htm#B20-sensors-22-04819)
+  - Süleyman Emre Demir - [Onboard detection and localization of drones using depth maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8984298)
+  - Büşra İçli - [Smartphone Based Indoor Path Estimation and Localization Without Human Intervention](https://ieeexplore.ieee.org/document/9153089)
 
 ## Course Project
 
