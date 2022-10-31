@@ -17,6 +17,8 @@ Week 2: [Technology Overview](slides/TechnologyOverview.pdf)
 
 Week 3: [GPS](slides/GPS.pdf)
 
+Week 4-5: [Radio-Based Positioning](slides/RadioBasedPositioning.pdf)
+
 ## Paper Review and Presentation
 
 Constitutes 20% of the total grade.
