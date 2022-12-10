@@ -2,8 +2,8 @@
 
 ## Announcements
 
-- Paper presentation schedule is announced, see Paper Review and Presentation section.
-- Deadline for project proposal submission: **November 14, 2022, Monday (end of day)**. See Course Project section below for details.
+- Project final presentations will be held on December 21, 2022 in class (which is the last day of classes).
+- The deadline for project final report submission is December 23, 2022, Friday (end of day).
 
 ## General Information
 
@@ -60,8 +60,8 @@ Project Proposal
 - 10 minutes presentation in class (**Date: November 16, 2022**)
 
 Project Final Report and Presentation
-- Final report (6-10 pages)
-- Presentation and Demo (Date to be announced, probably the last week)
+- Final report (6-10 pages) (**Deadline: December 23, 2022**)
+- Presentation and Demo (**Date: December 21, 2022**)
 
 **Deadline for project proposal submission: November 14, 2022, Monday (end of day)**
 
