@@ -11,13 +11,15 @@
 
 ## Lecture Slides
 
-Week 1: [Introduction](slides/Introduction.pdf)
+Lecture 1: [Introduction](slides/Introduction.pdf)
 
-Week 2: [Technology Overview](slides/TechnologyOverview.pdf)
+Lecture 2: [Technology Overview](slides/TechnologyOverview.pdf)
 
-Week 3: [GPS](slides/GPS.pdf)
+Lecture 3: [GPS](slides/GPS.pdf)
 
-Week 4-5: [Radio-Based Positioning](slides/RadioBasedPositioning.pdf)
+Lecture 4: [Radio-Based Positioning](slides/RadioBasedPositioning.pdf)
+
+Lecture 5: [Inertial Sensors](slides/InertialSensors.pdf)
 
 ## Paper Review and Presentation
 
@@ -55,15 +57,17 @@ Some remarks:
 - You are free to select your own topic. It could be the implementation of a solution discussed in a class on a mobile app or a simulation environment. It could be a solution on a pre-recorded dataset found on web...
 - Comparison to some ground truth (either numeric or visual) and/or a demo is expected.
 
-Project Proposal
+### Project Proposal
 - 1-2 pages proposal document, to be submitted via e-mail (can.tunca at boun.edu.tr)
 - 10 minutes presentation in class (**Date: November 16, 2022**)
 
-Project Final Report and Presentation
-- Final report (6-10 pages) (**Deadline: December 23, 2022**)
+**Deadline for project proposal submission: November 14, 2022, Monday (end of day)**
+
+### Project Final Report and Presentation
+- Final report (6-10 pages), to be submitted via e-mail (can.tunca at boun.edu.tr)
 - Presentation and Demo (**Date: December 21, 2022**)
 
-**Deadline for project proposal submission: November 14, 2022, Monday (end of day)**
+**Deadline for project final report submission: December 23, 2022, Friday (end of day)**
 
 ## Recommended Publications
 
