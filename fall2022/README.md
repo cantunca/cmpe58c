@@ -21,6 +21,8 @@ Lecture 4: [Radio-Based Positioning](slides/RadioBasedPositioning.pdf)
 
 Lecture 5: [Inertial Sensors](slides/InertialSensors.pdf)
 
+Lecture 6: [Data Fusion](slides/DataFusion.pdf)
+
 ## Paper Review and Presentation
 
 Constitutes 20% of the total grade.
