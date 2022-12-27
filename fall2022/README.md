@@ -2,8 +2,7 @@
 
 ## Announcements
 
-- Project final presentations will be held on December 21, 2022 in class (which is the last day of classes).
-- The deadline for project final report submission is December 23, 2022, Friday (end of day).
+- The final exam will be held on January 2, 2023, 13:00.
 
 ## General Information
 
@@ -22,6 +21,8 @@ Lecture 4: [Radio-Based Positioning](slides/RadioBasedPositioning.pdf)
 Lecture 5: [Inertial Sensors](slides/InertialSensors.pdf)
 
 Lecture 6: [Data Fusion](slides/DataFusion.pdf)
+
+Lecture 7: [SLAM](slides/SLAM.pdf)
 
 ## Paper Review and Presentation
 
