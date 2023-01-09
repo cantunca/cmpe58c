@@ -2,7 +2,7 @@
 
 ## Announcements
 
-- The final exam will be held on January 2, 2023, 13:00.
+- The final exam grades are announced [here](grades/final-exam-grades-fall2022.pdf). Please send me an e-mail (can.tunca at boun.edu.tr) if you wish to see your paper (and possibly make an objection), and I'll arrange a time.
 
 ## General Information
 
